@@ -1,0 +1,168 @@
+.u{
+	font-size: 304px;
+}
+
+.img{
+	background-image: url(img/back.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	min-width: 100%;
+	min-height: 700px;
+	box-sizing: border-box;
+	padding-top: 300px;
+}
+
+.all-boys{
+	text-align: center;
+}
+
+.boy , .boy2 , .boy3 , .boy4{
+	display: inline-block;
+	margin-left: 70px;
+	box-shadow: -50px 5px 20px 0px grey;
+}
+
+.boy{
+	display: inline-block;
+}
+
+.het{
+	background-color: blue;
+	width: 100px;
+	height: 30px;
+}
+
+.het2{
+	background-color: red;
+	width: 100px;
+	height: 30px;
+}
+
+.head{
+	background-color: bisque;
+	width: 100px;
+	height: 70px;
+}
+
+.body{
+	background-color: #8c6b1e;
+	width: 100px;
+	height: 70px;
+}
+
+.legs{
+	background-color: blue;
+	width: 100px;
+	height: 30px;
+}
+
+.foot{
+	background-color: black;
+	width: 100px;
+	height: 30px;
+}
+
+.boy2{
+	display: inline-block;
+}
+
+div.boy2 .het{
+	background-color: #46fe20;
+	width: 100px;
+	height: 30px;
+}
+
+div.boy2 .het2{
+	background-color: green;
+	width: 100px;
+	height: 30px;
+}
+
+div.boy2 .head{
+	background-color: bisque;
+	width: 100px;
+	height: 70px;
+}
+
+div.boy2 .body{
+	background-color: #8c6b1e;
+	width: 100px;
+	height: 70px;
+}
+
+div.boy2 .legs{
+	background-color: blue;
+	width: 100px;
+	height: 30px;
+}
+
+div.boy2 .foot{
+	background-color: black;
+	width: 100px;
+	height: 30px;
+}
+
+.boy3{
+	display: inline-block;
+}
+
+div.boy3 .het{
+	background-color: yellow;
+	width: 250px;
+	height: 30px;
+}
+
+div.boy3 .het2{
+	background-color: #107eeb;
+	width: 250px;
+	height: 30px;
+}
+
+div.boy3 .head{
+	background-color: bisque;
+	width: 250px;
+	height: 70px;
+}
+
+div.boy3 .body{
+	background-color: #e90120;
+	width: 250px;
+	height: 70px;
+}
+
+div.boy3 .legs{
+	background-color: brown;
+	width: 250px;
+	height: 30px;
+}
+
+div.boy3 .foot{
+	background-color: black;
+	width: 250px;
+	height: 30px;
+}
+
+.boy4{
+	display: inline-block;
+}
+
+div.boy4 .body{
+	background-color: orange;
+	width: 100px;
+	height: 230px;
+	padding-top: 20px;
+	box-sizing: border-box;
+}
+
+div.boy4 div.body .head{
+	background-color: bisque;
+	margin: auto;
+	width: 40px;
+	height: 80px;
+}
+ 
+div.boy4 .foot{
+	background-color: black;
+	width: 100px;
+	height: 30px;
+}
